@@ -12,7 +12,7 @@
     - Null
     - Undefined
 - Variable and Scope
-- Type Coercion: Implicit and Explicit Coercion
+- <strike>Type Coercion: Implicit and Explicit Coercion</strike>
 - Operators and Expression
 - Flow Control
     - if statement,
@@ -28,7 +28,7 @@
 - **Exercise and Home Work**
 
 #### Data Structures: Array and Object
-- Brief Introduction of Object and OOP
+- Brief Introduction of Object.
 - Of Two Ways to create an Object: Object literal and Object.create()
 - Method and Property
 - Revealing String Data Type as an Object
